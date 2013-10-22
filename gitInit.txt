@@ -6,6 +6,8 @@ git user guide:
 
 -make a simple txt file to commit and do it (using the git tuts)
 
+-to work on the project see this article:
+	https://help.github.com/articles/fork-a-repo
 
 -to add file:
 	make file and save to a dir
@@ -26,3 +28,5 @@ git user guide:
 		if bad it will say "everything up to date"
 		
 -if you have certificate problems when committing (like i did) email me for a 'how to')
+
+
