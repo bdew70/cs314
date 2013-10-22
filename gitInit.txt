@@ -6,4 +6,23 @@ git user guide:
 
 -make a simple txt file to commit and do it (using the git tuts)
 
+
+-to add file:
+	make file and save to a dir
+	$ git add <filename>
+	$ git commit -m 'MESSAGE HERE'
+	$ git remote add origin https://github.com/username/Hello-World.git
+	$ git push origin master
+	
+	if all goes well it will say something like: 
+		Counting objects: 4, done.
+		Delta compression using up to 4 threads.
+		Compressing objects: 100% (3/3), done.
+		Writing objects: 100% (3/3), 440 bytes | 0 bytes/s, done.
+		Total 3 (delta 0), reused 0 (delta 0)
+		To https://github.com/bdew70/cs314
+		   a085ceb..a937b40  master -> master
+	
+		if bad it will say "everything up to date"
+		
 -if you have certificate problems when committing (like i did) email me for a 'how to')
