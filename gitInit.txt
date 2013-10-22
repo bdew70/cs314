@@ -1,0 +1,9 @@
+git user guide:
+
+-make git account on github.com
+
+-install git on your machine (github has a good tut)
+
+-make a simple txt file to commit and do it (using the git tuts)
+
+-if you have certificate problems when committing (like i did) email me for a 'how to')
